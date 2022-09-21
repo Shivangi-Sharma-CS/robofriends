@@ -1,8 +1,9 @@
 # RoboFriends App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### This is an app of contact cards of robot friends searchable with their names
 
-This is an app of searchable names of robot friends with emails. It is a React project. 
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Starting the project
 
@@ -20,5 +21,5 @@ You may also see any lint errors in the console.
 Runs the build file for deployment
 
 ### `npm update`
-Allows you to update dependencies to main project 
+Allows you to update dependencies to maintain the project 
 
